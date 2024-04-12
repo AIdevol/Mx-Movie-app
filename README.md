@@ -13,6 +13,10 @@ For detailed guidance on Flutter development, refer to the [online documentation
 ## App Preview
 
 [![App Preview](https://img.youtube.com/vi/BmfQ0o0F9lQ/0.jpg)](https://www.youtube.com/watch?v=BmfQ0o0F9lQ)
+## App Preview
+
+![App Preview](https://example.com/path/to/your/gif_file.gif)
+
 
 
 ## Features
