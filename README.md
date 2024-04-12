@@ -10,14 +10,12 @@ For detailed guidance on Flutter development, refer to the [online documentation
 
 ## App Preview
 
-## App Preview
-
-[![App Preview](https://img.youtube.com/vi/BmfQ0o0F9lQ/0.jpg)](https://www.youtube.com/watch?v=BmfQ0o0F9lQ)
-## App Preview
-
-![App Preview](https://github.com/AIdevol/Mx-Movie-app/blob/main/assets/images/Mx_movie_app-ezgif.com-video-to-gif-converter.gif)
-
-
+<div style="display:flex; justify-content:center; align-items:center;">
+  <a href="https://www.youtube.com/watch?v=BmfQ0o0F9lQ">
+    <img src="https://img.youtube.com/vi/BmfQ0o0F9lQ/0.jpg" alt="YouTube Video" width="300"/>
+  </a>
+  <img src="https://github.com/AIdevol/Mx-Movie-app/blob/main/assets/images/Mx_movie_app-ezgif.com-video-to-gif-converter.gif" alt="GIF Preview" width="300"/>
+</div>
 
 ## Features
 
