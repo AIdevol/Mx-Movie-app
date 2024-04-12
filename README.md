@@ -14,7 +14,7 @@ For detailed guidance on Flutter development, refer to the [online documentation
   <a href="https://www.youtube.com/watch?v=BmfQ0o0F9lQ">
     <img src="https://img.youtube.com/vi/BmfQ0o0F9lQ/0.jpg" alt="YouTube Video" width="300"/>
   </a>
-  <img src="https://github.com/AIdevol/Mx-Movie-app/blob/main/assets/images/Mx_movie_app-ezgif.com-video-to-gif-converter.gif" alt="GIF Preview" width="300" hieght = '200'/>
+  <img src="https://github.com/AIdevol/Mx-Movie-app/blob/main/assets/images/Mx_movie_app-ezgif.com-video-to-gif-converter.gif" alt="GIF Preview" width="300"/>
 </div>
 
 ## Features
