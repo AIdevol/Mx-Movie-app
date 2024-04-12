@@ -15,7 +15,7 @@ For detailed guidance on Flutter development, refer to the [online documentation
 [![App Preview](https://img.youtube.com/vi/BmfQ0o0F9lQ/0.jpg)](https://www.youtube.com/watch?v=BmfQ0o0F9lQ)
 ## App Preview
 
-![App Preview](https://example.com/path/to/your/gif_file.gif)
+![App Preview](https://github.com/AIdevol/Mx-Movie-app/blob/main/assets/images/Mx_movie_app-ezgif.com-video-to-gif-converter.gif)
 
 
 
