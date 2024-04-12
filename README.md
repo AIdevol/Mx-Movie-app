@@ -30,4 +30,4 @@ For detailed guidance on Flutter development, refer to the [online documentation
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mx_movie_app.git
+   git clone https://github.com/Aidevol/mx_movie_app.git
